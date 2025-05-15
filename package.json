@@ -1,0 +1,16 @@
+{
+  "name": "discord-server-monitor",
+  "version": "1.0.0",
+  "description": "Bot Discord untuk memonitor status server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  }
+}
